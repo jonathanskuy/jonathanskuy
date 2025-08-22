@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**jonathanskuy/jonathanskuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Jonathan, an aspiring data scientist based in Jakarta, Indonesia 📍.
 
-Here are some ideas to get you started:
+I'm currently taking a bachelor's degree in data science 🎓.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm always passionate to explore and develop efficient solutions and systems based on existing data using AI 🚀.
+
+Aside from coding, I'd indulge myself with a bit of football ⚽, gaming 🎮, and anime binge-watching ⛩️.
+
+# 📝 Fun Facts About Me:
+⚽ My favourite football team is Arsenal
+🎮 My favourite games are Genshin Impact, Minecraft and FC 25
+⛩️ My favourite anime (so far) is Blue Lock
