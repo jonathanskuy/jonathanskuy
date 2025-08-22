@@ -12,3 +12,4 @@ Aside from coding, I'd indulge myself in football ⚽, gaming 🎮, and anime bi
 🎮 My favourite games are Genshin Impact, Minecraft and FC 25<br>
 ⛩️ My favourite anime (so far) is Blue Lock<br>
 🖥️ I also build Roblox games<br>
+🗣️ I'm currently learning Dutch<br>
