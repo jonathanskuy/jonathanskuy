@@ -13,3 +13,5 @@ Aside from coding, I'd indulge myself in football ⚽, gaming 🎮, and anime bi
 ⛩️&nbsp;&nbsp;&nbsp;My favourite anime (so far) is Jujutsu Kaisen<br>
 🖥️&nbsp;&nbsp;&nbsp;I also build Roblox games<br>
 🗣️&nbsp;&nbsp;&nbsp;I'm currently learning Dutch<br>
+
+[![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathanskuy)](https://github.com/anuraghazra/github-readme-stats)
