@@ -43,6 +43,6 @@ complex operating conditions
 
 ## Connect with Me
 - Email: jonathanindarto1001@gmail.com
-- LinkedIn: www.linkedin.com/in/m-jonathan-indarto
+- LinkedIn: [Marcellinus Jonathan Evanda](https://linkedin.com/in/m-jonathan-indarto)
 
 [![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathanskuy&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
