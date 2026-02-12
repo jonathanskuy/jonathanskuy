@@ -23,7 +23,7 @@ significant at p < 0.05 and strongly drives property prices
 - Produced 10+ spatial visualisations and regression diagnostics to visualise variations and support results and 
 investment insights
 
-**Repo:** https://github.com/jonathanskuy/manchester-property-vs-education
+**Repo:** [Exploring the Relationship between Education Quality and Property Prices in Manchester](https://github.com/jonathanskuy/manchester-property-vs-education)
 
 ### Aircraft Engine Predictive Maintenance
 **AI-powered system focused on the prediction of aircraft engine maintenance points based on remaining useful life**
@@ -39,7 +39,7 @@ strongly outperforms it for complex operating conditions (FD004)
 significantly increasing the accuracy of the predictive model in estimating maintenance points of engines under 
 complex operating conditions
 
-**Repo:** TBD
+**Repo:** [Aircraft Engine Predictive Maintenance](https://github.com/jonathanskuy/aircraft-predictive-maintenance)
 
 ## Connect with Me
 - Email: jonathanindarto1001@gmail.com
