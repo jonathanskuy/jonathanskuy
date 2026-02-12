@@ -4,11 +4,11 @@
 
 ## Tech Stack 💻
 ### Data
-Python (Pandas, NumPy), Data Wrangling, Exploratory Data Analysis (EDA), Feature Engineering, Geospatial Data (GeoPandas, LSOA/MSOA Boundaries), Relational and NoSQL Databases
+Python (Pandas, NumPy), Data Wrangling, Exploratory Data Analysis (EDA), Feature Engineering, Geospatial Data (GeoPandas, LSOA/MSOA Boundaries), Relational and NoSQL Databases, PySpark, Hadoop, Power BI
 ### Statistics
 Statistical Modelling, Linear and Multiple Linear Regression, Hypothesis Testing, Regression Assumptions and Diagnostics
 ### AI
-Supervised Learning (Regression, Classification), Scikit-Learn, TensorFlow, Keras, LLMs
+Supervised Learning (Regression, Classification), Scikit-Learn, XGBoost, TensorFlow, Keras, LLMs
 
 ## Featured Projects 🌟
 ### Exploring the Relationship between Education Quality and Property Prices in Manchester
