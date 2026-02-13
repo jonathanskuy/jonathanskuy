@@ -1,5 +1,5 @@
 # Hi there, I'm Jonathan 👋
-🧑‍💻 Data Scientist focused on building solutions using data and continuously improving<br>
+🧑‍💻 Data Scientist focused on making decisions and building solutions using data, and continuously improving<br>
 🎓 Final-year BSc(Hons) Data Science and Artificial Intelligence student<br>
 
 ## Tech Stack 💻
