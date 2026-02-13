@@ -6,7 +6,7 @@
 ### Data
 Python (Pandas, NumPy), Data Wrangling, Exploratory Data Analysis (EDA), Feature Engineering, Geospatial Data (GeoPandas, LSOA/MSOA Boundaries), Relational and NoSQL Databases, PySpark, Hadoop, Power BI
 ### Statistics
-Statistical Modelling, Linear and Multiple Linear Regression, Hypothesis Testing, Regression Assumptions and Diagnostics
+Statistical Modelling, Linear Regression, Hypothesis Testing, Regression Assumptions and Diagnostics
 ### AI
 Supervised Learning (Regression, Classification), Scikit-Learn, XGBoost, TensorFlow, Keras, LLMs
 
