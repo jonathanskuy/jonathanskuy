@@ -8,7 +8,7 @@ Python (Pandas, NumPy), Data Wrangling, Exploratory Data Analysis (EDA), Feature
 ### Statistics
 Statistical Modelling, Linear Regression, Hypothesis Testing, Regression Assumptions and Diagnostics
 ### AI
-Supervised Learning (Regression, Classification), Scikit-Learn, XGBoost, TensorFlow, Keras, LLMs
+Supervised Learning (Regression, Classification), Deep Learning (Neural Networks, LSTMs), Scikit-Learn, XGBoost, TensorFlow, Keras, LLMs
 
 ## Featured Projects 🌟
 ### Exploring the Relationship between Education Quality and Property Prices in Manchester
