@@ -31,7 +31,7 @@ investment insights
 **Key Features**
 - Developed a complete preprocessing pipeline from raw engine sensor data and engineered temporal features 
 such as rolling statistics and trends to capture engine degradation 
-- Compared the usage of XGBoost and Ridge regression the predictive model in terms of the accuracy of engine 
+- Compared the usage of XGBoost and Ridge regression for the predictive model in terms of the accuracy of engine 
 maintenance point prediction 
 - Demonstrated that linear models (Ridge) are adequate for simple operating conditions (FD001) while XGBoost 
 strongly outperforms it for complex operating conditions (FD004) 
