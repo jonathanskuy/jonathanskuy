@@ -42,9 +42,9 @@ complex operating conditions
 **Repo:** [Aircraft Engine Predictive Maintenance](https://github.com/jonathanskuy/aircraft-predictive-maintenance)
 
 ## Connect with Me
-- Email: jonathanindarto1001@gmail.com
-- LinkedIn: [Marcellinus Jonathan Evanda](https://linkedin.com/in/m-jonathan-indarto)
+- **Email:** jonathanindarto1001@gmail.com
+- **LinkedIn:** [Marcellinus Jonathan Evanda](https://linkedin.com/in/m-jonathan-indarto)
 
-Languages: EN🇬🇧/ID🇮🇩/NL🇳🇱
+**Languages:** EN🇬🇧/ID🇮🇩/NL🇳🇱
 
 [![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathanskuy&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
