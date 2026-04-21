@@ -33,6 +33,7 @@ investment insights
 - Collaborated in a team of 6 with structured roles spanning data preprocessing, modelling, and evaluation; personally led feature engineering and model implementation while contributing significantly to the data preprocessing pipeline
 
 **Repo:** [London Property Price Prediction](https://github.com/jonathanskuy/london-property-price-prediction)
+
 **Interactive Application:** [London Property Price Predictor](https://huggingface.co/spaces/jonathanskuy/london-property-price-predictor)
 
 ### Aircraft Engine Predictive Maintenance
