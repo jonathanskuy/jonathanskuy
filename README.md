@@ -6,9 +6,9 @@
 ### Data
 Python (Pandas, NumPy), Data Wrangling, Exploratory Data Analysis (EDA), Feature Engineering, Geospatial Data (GeoPandas, LSOA/MSOA Boundaries), Relational and NoSQL Databases, PySpark, Hadoop, Power BI
 ### Statistics
-Statistical Modelling, Linear Regression, Hypothesis Testing, Regression Assumptions and Diagnostics
+Statistical Modelling, Linear Regression, Hypothesis Testing, Regression Assumptions and Diagnostics, Model Comparison Statistics (Akaike Information Criterion)
 ### AI
-Supervised Learning (Regression, Classification), Deep Learning (Neural Networks, LSTMs), Scikit-Learn, XGBoost, TensorFlow, Keras, LLMs
+Supervised Learning (Regression, Classification), Deep Learning (Neural Networks, LSTMs), Scikit-Learn, Gradient-Boosting Algorithms (XGBoost, LightGBM, CatBoost), TensorFlow, Keras, LLMs
 
 ## Featured Projects 🌟
 ### Exploring the Relationship between Education Quality and Property Prices in Manchester
@@ -17,13 +17,23 @@ Supervised Learning (Regression, Classification), Deep Learning (Neural Networks
 **Key Features**
 - Integrated 1M+ UK property transaction data records with Ofsted school inspection scores and Index of Multiple 
 Deprivation datasets to analyse their relationship using multiple linear regression 
-- Discovered that both education quality and school presence in the area have marginal significance at p = 0.081 
-and weakly affect property prices, but socioeconomic deprivation and distance to the city centre are statistically 
-significant at p < 0.05 and strongly drives property prices 
+- Discovered that both education quality has great significance in property price variation (p < 0.01) while school access reflects them less (p > 0.1)
 - Produced 10+ spatial visualisations and regression diagnostics to visualise variations and support results and 
 investment insights
 
 **Repo:** [Exploring the Relationship between Education Quality and Property Prices in Manchester](https://github.com/jonathanskuy/manchester-property-vs-education)
+
+### London Property Price Prediction
+**End-to-end machine learning pipeline for predicting property prices across London, built as a collaborative group project.**
+
+**Key Features**
+- Engineered a production-ready data pipeline processing 100,000+ London property transaction records, enriching each with geospatial coordinates via the ONS Postcode Directory dataset and filtering to 2024 transactions for recency and relevance
+- Trained and tuned a CatBoost regression model across 1,000 iterations, improving R² from 0.840 to 0.844 and reducing MAE from 0.175 to 0.172 over the baseline, delivering robust price predictions across diverse property characteristics and external variables
+- Deployed an interactive Gradio web application into a HuggingFace Space, enabling users to generate real-time property price estimates from customisable inputs
+- Collaborated in a team of 6 with structured roles spanning data preprocessing, modelling, and evaluation; personally led feature engineering and model implementation while contributing significantly to the data preprocessing pipeline
+
+**Repo:** [London Property Price Prediction](https://github.com/jonathanskuy/london-property-price-prediction)
+**Interactive Application:** [London Property Price Predictor](https://huggingface.co/spaces/jonathanskuy/london-property-price-predictor)
 
 ### Aircraft Engine Predictive Maintenance
 **AI-powered system focused on the prediction of aircraft engine maintenance points based on remaining useful life**
