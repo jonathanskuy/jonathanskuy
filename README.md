@@ -17,7 +17,8 @@ Supervised Learning (Regression, Classification), Deep Learning (Neural Networks
 **Key Features**
 - Integrated 1M+ UK property transaction data records with Ofsted school inspection scores and Index of Multiple 
 Deprivation datasets to analyse their relationship using multiple linear regression 
-- Discovered that both education quality has great significance in property price variation (p < 0.01) while school access reflects them less (p > 0.1)
+- Discovered that education quality has great significance in property price variation (p < 0.01) while school access does not hold much significance (p > 0.1)
+- Investigated possible links with socioeconomic deprivation and access to amenities, observing that they also reflect property price variation significantly
 - Produced 10+ spatial visualisations and regression diagnostics to visualise variations and support results and 
 investment insights
 
