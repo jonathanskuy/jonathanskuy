@@ -1,16 +1,28 @@
 # Hi there, I'm Jonathan 👋
 🧑‍💻 Data Scientist focused on supporting decision-making and building solutions using data, and continuously improving<br>
-🎓 Final-year BSc(Hons) Data Science and Artificial Intelligence student<br>
+🎓 BSc(Hons) Data Science and Artificial Intelligence graduate<br>
 
 ## Tech Stack 💻
 ### Data
-Python (Pandas, NumPy), Data Wrangling, Exploratory Data Analysis (EDA), Feature Engineering, Geospatial Data (GeoPandas, LSOA/MSOA Boundaries), Relational and NoSQL Databases, PySpark, Hadoop, Power BI
+Python (Pandas, NumPy), Data Wrangling, Exploratory Data Analysis (EDA), Feature Engineering, Geospatial Data (GeoPandas, LSOA/MSOA Boundaries), Relational (Oracle SQL, MySQL) and NoSQL Databases (MongoDB, TinyDB), PySpark, Hadoop, Power BI
 ### Statistics
 Statistical Modelling, Linear Regression, Hypothesis Testing, Regression Assumptions and Diagnostics, Model Comparison Statistics (Akaike Information Criterion)
-### AI
-Supervised Learning (Regression, Classification), Deep Learning (Neural Networks, LSTMs), Scikit-Learn, Gradient-Boosting Algorithms (XGBoost, LightGBM, CatBoost), TensorFlow, Keras, LLMs
+### AI & Machine Learning
+Scikit-Learn, Supervised Learning (Regression, Classification), Deep Learning (Neural Networks, LSTMs, TensorFlow, PyTorch), Gradient-Boosting Algorithms (XGBoost, LightGBM, CatBoost), NLP (BERT fine-tuning, BERTopic)
+### MLOps & Deployment
+FastAPI, Docker, Google Cloud Run, MLflow, GitHub Actions, Model Versioning, Automated Retraining, Gradio
 
 ## Featured Projects 🌟
+### Real-Time Transaction Fraud Detection API
+**End-to-end MLOps pipeline for detecting fraudulent transactions, served via a production-ready REST API.**
+
+**Key Features**
+- Trained an XGBoost classifier model on 911K+ IEEE-CIS transaction records enriched with comprehensive feature engineering, effectively achieving an AUC-ROC of 0.9675 on test data
+- Applied threshold tuning to optimise the precision-recall trade-off and achieved an F1 score of 0.7491 (+25% uplift from the baseline model), as well as SHAP explainability to outline interpretable fraud signals
+- Packaging the trained model into a FastAPI inference service with Docker, targeting deployment on Google Cloud Run with a GitHub Actions CI/CD pipeline
+
+**Repo:** [Real-Time Transaction Fraud Detection API](https://github.com/jonathanskuy/fraud-detection-api)
+
 ### Exploring the Relationship between Education Quality and Property Prices in Manchester
 **Quantitative analysis of the relationship between school quality scores and property prices across Manchester.**
 
