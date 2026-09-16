@@ -65,7 +65,7 @@ complex operating conditions
 
 ## Connect with Me
 - **Email:** jonathanindarto1001@gmail.com
-- **LinkedIn:** [Marcellinus Jonathan Evanda](https://linkedin.com/in/m-jonathan-indarto)
+- **LinkedIn:** [Jonathan Indarto](https://linkedin.com/in/m-jonathan-indarto)
 
 **Languages:** EN🇬🇧/ID🇮🇩/NL🇳🇱
 
