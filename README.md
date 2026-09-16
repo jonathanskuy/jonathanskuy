@@ -69,4 +69,4 @@ complex operating conditions
 
 **Languages:** EN🇬🇧/ID🇮🇩/NL🇳🇱
 
-[![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonathanskuy&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Jonathan's GitHub stats](https://github-stats-extended.vercel.app/api?username=jonathanskuy)](https://github.com/stats-organization/github-stats-extended)
