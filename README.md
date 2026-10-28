@@ -3,14 +3,16 @@
 🎓 BSc(Hons) Data Science and Artificial Intelligence graduate<br>
 
 ## Tech Stack 💻
+### AI & Machine Learning
+Scikit-Learn, Supervised Learning (Regression, Classification), Gradient-Boosting Algorithms (XGBoost, LightGBM, CatBoost), Model Explainability (SHAP), Deep Learning (Neural Networks, LSTMs, TensorFlow, PyTorch), NLP (BERT fine-tuning, BERTopic), LLM Integration (Google Gemini API)
+### Computer Vision
+Object Detection, Image Embeddings, Vector Similarity Search (Qdrant), Custom Dataset Creation
 ### Data
 Python (Pandas, NumPy), Data Wrangling, Exploratory Data Analysis (EDA), Feature Engineering, Geospatial Data (GeoPandas, LSOA/MSOA Boundaries), Relational (Oracle SQL, MySQL) and NoSQL Databases (MongoDB, TinyDB), PySpark, Hadoop, Power BI
-### Statistics
-Statistical Modelling, Linear Regression, Hypothesis Testing, Regression Assumptions and Diagnostics, Model Comparison Statistics (Akaike Information Criterion)
-### AI & Machine Learning
-Scikit-Learn, Supervised Learning (Regression, Classification), Deep Learning (Neural Networks, LSTMs, TensorFlow, PyTorch), Gradient-Boosting Algorithms (XGBoost, LightGBM, CatBoost), NLP (BERT fine-tuning, BERTopic)
-### MLOps & Deployment
-FastAPI, Docker, Google Cloud Run, MLflow, GitHub Actions, Model Versioning, Automated Retraining, Gradio
+### Statistics & Optimisation
+Statistical Modelling (statsmodels), Linear Regression, Hypothesis Testing, Regression Assumptions and Diagnostics, Model Comparison Statistics (Akaike Information Criterion), Mathematical Optimisation (Gurobi, Mixed-Integer Programming)
+### Deployment & Tools
+Gradio, Streamlit, Hugging Face Spaces, Git & GitHub
 
 ## Featured Projects 🌟
 ### Real-Time Transaction Fraud Detection API
