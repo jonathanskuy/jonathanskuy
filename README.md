@@ -47,21 +47,17 @@ FastAPI, Docker, Google Cloud Run, MLflow, GitHub Actions, Model Versioning, Aut
 
 **Interactive Application:** [London Property Price Predictor](https://huggingface.co/spaces/jonathanskuy/london-property-price-predictor)
 
-### Aircraft Engine Predictive Maintenance
-**AI-powered system focused on the prediction of aircraft engine maintenance points based on remaining useful life**
+### Cat Adoption Profile Optimiser
+**AI-powered system focused on scoring cat adoption listings and giving recommendations to improve it, developed for the #HackTheKitty 2026 hackathon**
 
 **Key Features**
-- Developed a complete preprocessing pipeline from raw engine sensor data and engineered temporal features 
-such as rolling statistics and trends to capture engine degradation 
-- Compared the usage of XGBoost and Ridge regression for the predictive model in terms of the accuracy of engine 
-maintenance point prediction 
-- Demonstrated that linear models (Ridge) are adequate for simple operating conditions (FD001) while XGBoost 
-strongly outperforms it for complex operating conditions (FD004) 
-- Achieved approximately 26% decrease in final-cycle MAE on FD004 using XGBoost compared to Ridge regression, 
-significantly increasing the accuracy of the predictive model in estimating maintenance points of engines under 
-complex operating conditions
+- Developed and deployed a tested application to score cat adoption profiles using a binarised XGBoost model (ROC-AUC 
+= ~0.68) and provide recommendations to users via the Google Gemini 2.5 Flash API, as part of a 2-person team
+- Placed within the Top 25% out of 120+ submissions
 
-**Repo:** [Aircraft Engine Predictive Maintenance](https://github.com/jonathanskuy/aircraft-predictive-maintenance)
+**Repo:** [Cat Adoption Profile Optimiser](https://github.com/jonathanskuy/cat-profile-optimiser)
+
+**Interactive Application:** [Cat Adoption Profile Optimiser](https://cat-profile-optimiser.streamlit.app/)
 
 ## Connect with Me
 - **Email:** jonathanindarto1001@gmail.com
