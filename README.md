@@ -67,6 +67,6 @@ Gradio, Streamlit, Hugging Face Spaces, Git & GitHub
 
 **Languages:** EN🇬🇧/ID🇮🇩/NL🇳🇱
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=jonathanskuy&theme=yellowdark&hide_border=true&border_radius=5&timezone=Asia/Jakarta&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat&card_width=500&card_height=200)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=jonathanskuy&theme=gruvbox&hide_border=true&border_radius=5&timezone=Asia/Jakarta&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat&card_width=500&background=080B0F&stroke=FFDEC3&ring=FF8000&fire=FF5800&currStreakNum=FF8000&sideNums=FF8000&currStreakLabel=FF8000&sideLabels=FFDEC3&dates=FFDEC3&excludeDaysLabel=EB0000)](https://git.io/streak-stats)
 
-[![Jonathan's GitHub stats](https://github-stats-extended.vercel.app/api?username=jonathanskuy)](https://github.com/stats-organization/github-stats-extended)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=jonathanskuy&custom_title=My%20GitHub%20Stats&show_icons=true&theme=highcontrast&hide_border=true&bg_color=080b0f)](https://github-stats-extended.vercel.app/api?username=anuraghazra&custom_title=My%20GitHub%20Stats&show_icons=true&theme=highcontrast)
