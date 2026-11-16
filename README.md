@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=blur&height=300&color=ff8000&section=header&reversal=false&text=Hi+there%2C+I%27m+Jonathan%21&textBg=false&fontColor=FFDEC3&fontSize=68&fontAlign=50&fontAlignY=50&animation=fadeIn&rotate=0&strokeWidth=0&desc=Data+Scientist+and+AI%2FML+Engineer&descSize=20&descAlign=50&descAlignY=72)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&color=FF8000&width=435&lines=Hi+there%2C+I'm+Jonathan!)](https://git.io/typing-svg)
 
 🧑‍💻 Data Scientist focused on supporting decision-making and building solutions using data, and continuously improving<br>
