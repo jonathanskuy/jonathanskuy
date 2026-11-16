@@ -69,4 +69,4 @@ Gradio, Streamlit, Hugging Face Spaces, Git & GitHub
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=jonathanskuy&theme=gruvbox&hide_border=true&border_radius=5&timezone=Asia/Jakarta&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat&card_width=500&background=080B0F&stroke=FFDEC3&ring=FF8000&fire=FF5800&currStreakNum=FF8000&sideNums=FF8000&currStreakLabel=FF8000&sideLabels=FFDEC3&dates=FFDEC3&excludeDaysLabel=EB0000)](https://git.io/streak-stats)
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=jonathanskuy&custom_title=My%20GitHub%20Stats&show_icons=true&theme=highcontrast&hide_border=true&bg_color=080b0f)](https://github-stats-extended.vercel.app/api?username=anuraghazra&custom_title=My%20GitHub%20Stats&show_icons=true&theme=highcontrast)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=jonathanskuy&custom_title=My%20GitHub%20Stats&show_icons=true&title_color=ff8000&text_color=ffdec3&icon_color=ff5800&bg_color=080b0f&hide_border=true&theme=highcontrast)](https://github-stats-extended.vercel.app/api?username=anuraghazra&custom_title=My%20GitHub%20Stats&show_icons=true&theme=highcontrast)
