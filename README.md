@@ -3,10 +3,21 @@
   ![header](https://capsule-render.vercel.app/api?type=blur&height=300&color=ff8000&section=header&reversal=false&text=Hi+there%2C+I%27m+Jonathan%21&textBg=false&fontColor=FFDEC3&fontSize=68&fontAlign=50&fontAlignY=50&animation=fadeIn&rotate=0&strokeWidth=0&desc=Data+Scientist+and+AI%2FML+Engineer&descSize=20&descAlign=50&descAlignY=72)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=1000&pause=100&color=FF8000&center=true&vCenter=true&width=435&lines=Welcome!;Selamat+datang!;Welkom!;%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%EF%BC%81;%E6%AC%A2%E8%BF%8E%EF%BC%81)](https://git.io/typing-svg)
 
+<br>
+
+<div font-size="30px">
+  
+  # My Stats
+  
 </div>
 
-🧑‍💻 Data Scientist focused on supporting decision-making and building solutions using data, and continuously improving<br>
-🎓 BSc(Hons) Data Science and Artificial Intelligence graduate<br>
+[![GitHub Streak](https://streak-stats.demolab.com?user=jonathanskuy&theme=gruvbox&hide_border=true&border_radius=5&timezone=Asia/Jakarta&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat&card_width=500&background=080B0F&stroke=FFDEC3&ring=FF8000&fire=FF5800&currStreakNum=FF8000&sideNums=FF8000&currStreakLabel=FF8000&sideLabels=FFDEC3&dates=FFDEC3&excludeDaysLabel=EB0000)](https://git.io/streak-stats)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=jonathanskuy&custom_title=My%20GitHub%20Stats&show_icons=true&title_color=ff8000&text_color=ffdec3&icon_color=ff5800&bg_color=080b0f&hide_border=true&theme=highcontrast)](https://github-stats-extended.vercel.app/api?username=anuraghazra&custom_title=My%20GitHub%20Stats&show_icons=true&theme=highcontrast)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=jonathanskuy&layout=donut&langs_count=5&title_color=ff8000&text_color=ffdec3&icon_color=ff5800&bg_color=080b0f&hide_border=true&theme=highcontrast)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=donut&langs_count=5&theme=highcontrast)
+
+</div>
 
 ## Tech Stack 💻
 ### AI & Machine Learning
@@ -72,9 +83,3 @@ Gradio, Streamlit, Hugging Face Spaces, Git & GitHub
 - **LinkedIn:** [Jonathan Indarto](https://linkedin.com/in/m-jonathan-indarto)
 
 **Languages:** EN🇬🇧/ID🇮🇩/NL🇳🇱
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=jonathanskuy&theme=gruvbox&hide_border=true&border_radius=5&timezone=Asia/Jakarta&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat&card_width=500&background=080B0F&stroke=FFDEC3&ring=FF8000&fire=FF5800&currStreakNum=FF8000&sideNums=FF8000&currStreakLabel=FF8000&sideLabels=FFDEC3&dates=FFDEC3&excludeDaysLabel=EB0000)](https://git.io/streak-stats)
-
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=jonathanskuy&custom_title=My%20GitHub%20Stats&show_icons=true&title_color=ff8000&text_color=ffdec3&icon_color=ff5800&bg_color=080b0f&hide_border=true&theme=highcontrast)](https://github-stats-extended.vercel.app/api?username=anuraghazra&custom_title=My%20GitHub%20Stats&show_icons=true&theme=highcontrast)
-
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=jonathanskuy&layout=donut&langs_count=5&title_color=ff8000&text_color=ffdec3&icon_color=ff5800&bg_color=080b0f&hide_border=true&theme=highcontrast)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=donut&langs_count=5&theme=highcontrast)
