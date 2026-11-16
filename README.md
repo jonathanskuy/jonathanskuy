@@ -67,6 +67,6 @@ Gradio, Streamlit, Hugging Face Spaces, Git & GitHub
 
 **Languages:** EN🇬🇧/ID🇮🇩/NL🇳🇱
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=jonathanskuy)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=jonathanskuy&theme=yellowdark&hide_border=true&border_radius=5&timezone=Asia/Jakarta&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat&card_width=500&card_height=200)](https://git.io/streak-stats)
 
 [![Jonathan's GitHub stats](https://github-stats-extended.vercel.app/api?username=jonathanskuy)](https://github.com/stats-organization/github-stats-extended)
