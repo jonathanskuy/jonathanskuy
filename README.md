@@ -5,11 +5,7 @@
 
 <br>
 
-<div font-size="30px">
-  
-  # My Stats
-  
-</div>
+# My Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=jonathanskuy&theme=gruvbox&hide_border=true&border_radius=5&timezone=Asia/Jakarta&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat&card_width=500&background=080B0F&stroke=FFDEC3&ring=FF8000&fire=FF5800&currStreakNum=FF8000&sideNums=FF8000&currStreakLabel=FF8000&sideLabels=FFDEC3&dates=FFDEC3&excludeDaysLabel=EB0000)](https://git.io/streak-stats)
 
