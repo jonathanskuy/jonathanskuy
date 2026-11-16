@@ -1,4 +1,5 @@
-# Hi there, I'm Jonathan 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&color=FF8000&width=435&lines=Hi+there%2C+I'm+Jonathan!)](https://git.io/typing-svg)
+
 🧑‍💻 Data Scientist focused on supporting decision-making and building solutions using data, and continuously improving<br>
 🎓 BSc(Hons) Data Science and Artificial Intelligence graduate<br>
 
