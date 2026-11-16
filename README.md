@@ -1,6 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=blur&height=300&color=ff8000&section=header&reversal=false&text=Hi+there%2C+I%27m+Jonathan%21&textBg=false&fontColor=FFDEC3&fontSize=68&fontAlign=50&fontAlignY=50&animation=fadeIn&rotate=0&strokeWidth=0&desc=Data+Scientist+and+AI%2FML+Engineer&descSize=20&descAlign=50&descAlignY=72)
+<div align="center">
+  
+  ![header](https://capsule-render.vercel.app/api?type=blur&height=300&color=ff8000&section=header&reversal=false&text=Hi+there%2C+I%27m+Jonathan%21&textBg=false&fontColor=FFDEC3&fontSize=68&fontAlign=50&fontAlignY=50&animation=fadeIn&rotate=0&strokeWidth=0&desc=Data+Scientist+and+AI%2FML+Engineer&descSize=20&descAlign=50&descAlignY=72)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=1000&pause=100&color=FF8000&center=true&vCenter=true&width=435&lines=Welcome!;Selamat+datang!;Welkom!;%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%EF%BC%81;%E6%AC%A2%E8%BF%8E%EF%BC%81)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&color=FF8000&width=435&lines=Hi+there%2C+I'm+Jonathan!)](https://git.io/typing-svg)
+</div>
 
 🧑‍💻 Data Scientist focused on supporting decision-making and building solutions using data, and continuously improving<br>
 🎓 BSc(Hons) Data Science and Artificial Intelligence graduate<br>
