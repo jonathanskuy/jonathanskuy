@@ -130,4 +130,6 @@ Gradio, Streamlit, Hugging Face Spaces, Git & GitHub
 
 **Languages:** EN🇬🇧/ID🇮🇩/NL🇳🇱
 
+[![Transfergit card](https://transfergit.com/api/svg/jonathanskuy/readme)](https://transfergit.com/jonathanskuy)
+
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31vigmzvmm5t2augf7abnu6htp4a&cover_image=true&theme=spotify-embed&show_offline=false&background_color=080b0f&interchange=false&profanity=false&hide_remaster=false&mode=dark&bar_color=ff8000&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
