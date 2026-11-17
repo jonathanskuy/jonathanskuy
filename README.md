@@ -13,9 +13,7 @@
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=jonathanskuy&custom_title=My%20GitHub%20Stats&show_icons=true&title_color=ff8000&text_color=ffdec3&icon_color=ff5800&bg_color=080b0f&hide_border=true&theme=highcontrast)](https://github-stats-extended.vercel.app/api?username=anuraghazra&custom_title=My%20GitHub%20Stats&show_icons=true&theme=highcontrast)
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=jonathanskuy&layout=donut&langs_count=5&title_color=ff8000&text_color=ffdec3&icon_color=ff5800&bg_color=080b0f&hide_border=true&theme=highcontrast)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=donut&langs_count=5&theme=highcontrast)
-
-![Stats](./profile/stats.svg)
+![GitHub Top Language Stats](./profile/top-langs.svg)
 
 </div>
 
