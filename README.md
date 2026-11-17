@@ -15,6 +15,8 @@
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=jonathanskuy&layout=donut&langs_count=5&title_color=ff8000&text_color=ffdec3&icon_color=ff5800&bg_color=080b0f&hide_border=true&theme=highcontrast)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&layout=donut&langs_count=5&theme=highcontrast)
 
+![Stats](./profile/stats.svg)
+
 </div>
 
 ## Tech Stack 💻
