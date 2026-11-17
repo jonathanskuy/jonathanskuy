@@ -19,7 +19,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=donut&langs_count=10&title_color=ff8000&text_color=ffdec3&icon_color=ff5800&bg_color=080b0f&hide_border=true&theme=highcontrast&hide=jupyter%20notebook
+          options: username=${{ github.repository_owner }}&layout=donut&langs_count=5&title_color=ff8000&text_color=ffdec3&icon_color=ff5800&bg_color=080b0f&hide_border=true&theme=highcontrast
           path: profile/top-langs.svg
           token: ${{ secrets.STATS_PAT }}
 
