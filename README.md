@@ -66,17 +66,6 @@
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
 [![LaTeX](https://img.shields.io/badge/LaTeX-00A0A0?logo=latex&logoColor=fff)](#)
 
-### AI & Machine Learning
-Scikit-Learn, Supervised Learning (Regression, Classification), Gradient-Boosting Algorithms (XGBoost, LightGBM, CatBoost), Model Explainability (SHAP), Deep Learning (Neural Networks, LSTMs, TensorFlow, PyTorch), NLP (BERT fine-tuning, BERTopic), LLM Integration (Google Gemini API)
-### Computer Vision
-Object Detection, Image Embeddings, Vector Similarity Search (Qdrant), Custom Dataset Creation
-### Data
-Python (Pandas, NumPy), Data Wrangling, Exploratory Data Analysis (EDA), Feature Engineering, Geospatial Data (GeoPandas, LSOA/MSOA Boundaries), Relational (Oracle SQL, MySQL) and NoSQL Databases (MongoDB, TinyDB), PySpark, Hadoop, Power BI
-### Statistics & Optimisation
-Statistical Modelling (statsmodels), Linear Regression, Hypothesis Testing, Regression Assumptions and Diagnostics, Model Comparison Statistics (Akaike Information Criterion), Mathematical Optimisation (Gurobi, Mixed-Integer Programming)
-### Deployment & Tools
-Gradio, Streamlit, Hugging Face Spaces, Git & GitHub
-
 ## Featured Projects 🌟
 ### Real-Time Transaction Fraud Detection API
 **End-to-end MLOps pipeline for detecting fraudulent transactions, served via a production-ready REST API.**
