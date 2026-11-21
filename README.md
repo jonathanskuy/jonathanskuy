@@ -118,6 +118,7 @@
 - **LinkedIn:** [Jonathan Indarto](https://linkedin.com/in/m-jonathan-indarto)
 
 **Languages:** EN🇬🇧/ID🇮🇩/NL🇳🇱
+
 **Currently Learning:** JP🇯🇵, CN🇨🇳
 
 [![Transfergit card](https://transfergit.com/api/svg/jonathanskuy/readme)](https://transfergit.com/jonathanskuy)
