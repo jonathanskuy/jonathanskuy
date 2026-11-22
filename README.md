@@ -114,12 +114,7 @@
 </div>
 
 ## Connect with Me
-<div align="left">
-  
-- **Email:** jonathanindarto1001@gmail.com
-- **LinkedIn:** [Jonathan Indarto](https://linkedin.com/in/m-jonathan-indarto)
-  
-</div>
+[**Email**](jonathanindarto1001@gmail.com) | [**LinkedIn**](https://linkedin.com/in/m-jonathan-indarto)
 
 **Languages:** EN🇬🇧/ID🇮🇩/NL🇳🇱
 
