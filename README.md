@@ -15,8 +15,6 @@
 
 ![GitHub Top Languages Stats](./profile/top-langs.svg)
 
-</div>
-
 ## Tech Stack 💻
 ### AI/ML
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
@@ -67,6 +65,7 @@
 [![LaTeX](https://img.shields.io/badge/LaTeX-00A0A0?logo=latex&logoColor=fff)](#)
 
 ## Featured Projects 🌟
+<div align="left">
 ### Real-Time Transaction Fraud Detection API
 **End-to-end MLOps pipeline for detecting fraudulent transactions, served via a production-ready REST API.**
 
@@ -112,10 +111,15 @@
 **Repo:** [Cat Adoption Profile Optimiser](https://github.com/jonathanskuy/cat-profile-optimiser)
 
 **Interactive Application:** [Cat Adoption Profile Optimiser](https://cat-profile-optimiser.streamlit.app/)
+</div>
 
 ## Connect with Me
+<div align="left">
+  
 - **Email:** jonathanindarto1001@gmail.com
 - **LinkedIn:** [Jonathan Indarto](https://linkedin.com/in/m-jonathan-indarto)
+  
+</div>
 
 **Languages:** EN🇬🇧/ID🇮🇩/NL🇳🇱
 
@@ -124,3 +128,5 @@
 [![Transfergit card](https://transfergit.com/api/svg/jonathanskuy/readme)](https://transfergit.com/jonathanskuy)
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31vigmzvmm5t2augf7abnu6htp4a&cover_image=true&theme=spotify-embed&show_offline=false&background_color=080b0f&interchange=false&profanity=false&hide_remaster=false&mode=dark&bar_color=ff8000&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+</div>
