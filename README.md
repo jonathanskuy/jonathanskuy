@@ -65,7 +65,9 @@
 [![LaTeX](https://img.shields.io/badge/LaTeX-00A0A0?logo=latex&logoColor=fff)](#)
 
 ## Featured Projects 🌟
+
 <div align="left">
+  
 ### Real-Time Transaction Fraud Detection API
 **End-to-end MLOps pipeline for detecting fraudulent transactions, served via a production-ready REST API.**
 
