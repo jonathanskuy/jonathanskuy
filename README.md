@@ -9,7 +9,7 @@
 
 <br>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=jonathanskuy&theme=gruvbox&hide_border=true&border_radius=5&timezone=Asia/Jakarta&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat&card_width=500&background=080B0F&stroke=FFDEC3&ring=FF8000&fire=FFFF00&currStreakNum=FF8000&sideNums=FF8000&currStreakLabel=FF8000&sideLabels=FFDEC3&dates=FFDEC3&excludeDaysLabel=EB0000)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
 
 ![GitHub Stats](./profile/stats.svg)
 
