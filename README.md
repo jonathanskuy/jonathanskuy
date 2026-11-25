@@ -116,7 +116,7 @@
 </div>
 
 ## Connect with Me
-[**Email**](jonathanindarto1001@gmail.com) | [**LinkedIn**](https://linkedin.com/in/m-jonathan-indarto)
+[**Email**](jonathanindarto1001@gmail.com) | [**LinkedIn**](https://linkedin.com/in/m-jonathan-indarto) | [**Instagram**](https://instagram.com/jonathanindrto)
 
 **Languages:** EN🇬🇧/ID🇮🇩/NL🇳🇱
 
